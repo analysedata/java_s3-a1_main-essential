@@ -1,0 +1,8 @@
+/* Session 3
+ * Assignment 1: What will happen if you compile and run a class that has no main method, but it has a static method?
+ * 
+ * Answer:
+ * 	Expected Output: a. Compiler error
+ * 
+ * 	In Core Java 1.8 there must be a main method or you'll get a Compiler error when the program is run.
+*/
